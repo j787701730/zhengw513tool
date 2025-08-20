@@ -1,6 +1,6 @@
 {
-  "name": "zhengw513tool",
-  "version": "1.0.2",
+  "name": "@zhengw513/js-tools",
+  "version": "1.0.0",
   "description": "",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
